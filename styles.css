@@ -1,0 +1,17 @@
+div.text-box{
+  width: 500px;
+  background: url(http://cdn.playbuzz.com/cdn/0079c830-3406-4c05-a5c1-bc43e8f01479/7dd84d70-768b-492b-88f7-a6c70f2db2e9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  color: gray;
+  padding: 40px;
+  display: inline-block;
+  text-align: left;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+div.text-box p{
+  margin: 0;
+}
